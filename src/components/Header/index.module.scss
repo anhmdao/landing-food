@@ -1,0 +1,34 @@
+.header {
+    font-family: 'Galada', cursive;
+    display: flex;
+    justify-content: space-between;
+    font-style: normal;
+    padding-top: 54px;
+
+    .logo {
+        padding-left: 56px;
+    }
+
+    .menu {
+        ul {
+            display: flex;
+        }
+
+        li {
+            list-style: none;
+        }
+
+        a {
+            font-size: 31px;
+            padding: 5px 20px;
+            margin-left: 15px;
+            color: #575757;
+            display: inline-block;
+            font-weight: 400px;
+            text-decoration: none;
+            line-height: 50px;
+            
+        }
+
+    }
+}

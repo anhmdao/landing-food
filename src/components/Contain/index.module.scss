@@ -1,0 +1,143 @@
+.Contain {
+    position: absolute;
+    display: block;
+
+    .text {
+        width: 164px;
+        height: 64px;
+        left: 60px;
+        // font-weight: 400;
+        font-size: 61px;
+        line-height: 64px;
+        color: #EA0000;
+        padding-top: 200px;
+        font-family: 'Galdeano';
+        margin-left: 53px;
+    }
+
+    .img {
+        padding-top: 80px;
+        margin-left: 53px;
+    }
+
+    .text1 {
+        position: absolute;
+        top: 490px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 36px;
+        text-align: justify;
+        color: #000000;
+        margin-left: 53px;
+
+    }
+
+    .img1 {
+        position: absolute;
+        width: 66.56px;
+        height: 105.01px;
+        left: 856px;
+        top: 40px;
+    }
+
+    .img2 {
+        position: absolute;
+        width: 93px;
+        height: 96px;
+        left: 1107px;
+        top: 40px;
+        transform: rotate(18.83deg);
+    }
+
+    .img3 {
+        position: absolute;
+        width: 671px;
+        height: 804px;
+        left: 790px;
+        top: 170px;
+    }
+
+    .img4 {
+        position: absolute;
+        width: 98px;
+        height: 122px;
+        left: 750px;
+        top: 340px;
+
+    }
+
+    .img5 {
+        position: absolute;
+        width: 139px;
+        height: 125px;
+        left: 1258px;
+        top: 900px;
+    }
+
+    .text2 {
+        position: absolute;
+        height: 77px;
+        left: 0px;
+        right: 1186px;
+        top: 730px;
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 61px;
+        line-height: 77px;
+        margin-left: 53px;
+        color: #FF9900;
+    }
+
+    .vector {
+        position: absolute;
+        height: 15px;
+        left: 292px;
+        right: 956px;
+        top: 840px;
+        border: 2px solid #575757;
+    }
+
+    .text3 {
+        position: absolute;
+        height: 58px;
+        left: 303px;
+        right: 974px;
+        top: 765px;
+        font-family: 'Gelasio';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 58px;
+
+        color: #575757;
+    }
+
+    .button {
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 30px;
+        width: 170px;
+        height: 50px;
+        left: 53px;
+        top: 950px;
+        background: #EA0000;
+        box-shadow: 0px 17px 23px -1px rgba(255, 18, 18, 0.25);
+        border-radius: 20px;
+
+
+        a {
+            text-decoration: none;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 30px;
+            color: #fff;
+        }
+    }
+}
