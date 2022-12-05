@@ -3,8 +3,8 @@ import Header from "./components/Header";
 import Contain from "./components/Contain"
 function App() {
   return (
-    <div className="App">
-      <div className="Boder">
+    <div className="container">
+      <div className="boder">
         <div className="Header">
           <Header />
         </div>
